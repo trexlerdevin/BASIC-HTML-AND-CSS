@@ -1,0 +1,20 @@
+table {
+	border: 10px solid gray;
+	font-size: xx-large;
+	font-family: 'Zen Dots', monospace ;
+}
+
+td:hover {
+	background-color: white;
+	color: blue;
+}
+
+tr,th {
+	background-color: black;
+	color: orange;
+}
+
+tr,td {
+	background-color: black;
+	color: limegreen;
+}

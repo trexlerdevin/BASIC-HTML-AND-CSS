@@ -1,0 +1,12 @@
+p {
+	background-color: black;
+	color: limegreen;
+	font-size: xxx-large;
+	text-align: center;
+	text-shadow: 1px 1px 3px red,0 0 1em white, 0 0 0.7em purple
+}
+
+h2 {
+		color: limegreen;
+		text-shadow: 1px 1px 2px red, 0 0 1em purple, 0 0 0.2em blue;
+}
